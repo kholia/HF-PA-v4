@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name EWB-PA-LPF-Combo-v2-rescue)(type Legacy)(uri ${KIPRJMOD}/EWB-PA-LPF-Combo-v2-rescue.lib)(options "")(descr ""))
+  (lib (name uSDX_LPF_BAND_Module)(type Legacy)(uri "/home/dhiru/repos/HF-PA-v3/HF-PA-v3/libraries/uSDX LPF BAND Module.lib")(options "")(descr ""))
+  (lib (name Custom_Library)(type Legacy)(uri ${KIPRJMOD}/libraries/Custom_Library.lib)(options "")(descr ""))
+)
